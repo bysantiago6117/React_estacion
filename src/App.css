@@ -1,0 +1,56 @@
+/* Estilos del login*/
+
+#caja_login {
+  width: 400px;
+  background: #1a1817;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+  text-align: center;
+}
+
+/* Estilos generales*/
+#img {
+  height: 40px;
+}
+
+#navegacion {
+  background-color: #aeafaf;
+}
+
+#caja {
+  background-color: rgb(228, 224, 224);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.labels {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: "black";
+  font-size: large;
+}
+
+#activado {
+  display: block;
+}
+
+#desactivado {
+  display: none;
+}
+
+#cabecera_table {
+  background: #2a2c41;
+  color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+#body_table {
+  background: white;
+  border: 3px solid black;
+  color: black;
+}
